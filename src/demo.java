@@ -6,6 +6,7 @@ public class demo {
        ArrayList<String> e = new ArrayList<>();
         e.add("9");
         System.out.println(e.size());
+        System.out.println(e.size());
 
     }
 
