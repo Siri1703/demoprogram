@@ -7,6 +7,8 @@ public class demo {
         e.add("9");
         System.out.println(e.size());
         System.out.println(e.size());
+        System.out.println(e.size());
+
 
     }
 
